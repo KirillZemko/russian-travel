@@ -1,0 +1,24 @@
+.cover {
+  margin-top: 92px;
+  background: url(../../images/cover-trains.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 1184px;
+  min-height: 740px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cover:hover {
+  background:
+    linear-gradient(
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+    ),
+    url(../../images/cover-trains.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 1184px;
+  min-height: 740px;
+}

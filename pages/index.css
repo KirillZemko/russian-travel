@@ -4,10 +4,9 @@
 /* block header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/lang/lang.css);
 @import url(../blocks/lang/__link/lang__link.css);
-@import url(../blocks/lang/__link/_state/link_state_active.css);
+@import url(../blocks/lang/__link/_state/lang__link_state_active.css);
 /* block content */
 @import url(../blocks/content/content.css);
 /* block lead */
@@ -22,6 +21,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__description/intro__description.css);
+@import url(../blocks/intro/__description/_font-weight_normal/intro__description_font-weight_normal.css);
 /* block photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);

@@ -8,3 +8,27 @@
   margin-top: 8px;
   text-align: left;
 }
+
+@media screen and (max-width: 425px) {
+  .lead__caption {
+    margin-top: 8px;
+    margin-left: 16px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead__caption {
+    margin-top: 8px;
+    margin-left: 16px;
+    font-size: 10px;
+    line-height: 14px;
+  }
+}
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}

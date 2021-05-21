@@ -10,3 +10,18 @@
 .text__paragraph:last-of-type {
   margin-bottom: 0;
 }
+
+@media screen and (min-width: 425px) and (max-width: 768px) {
+  .text__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .text__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+  }
+}

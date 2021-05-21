@@ -1,6 +1,7 @@
 .lead__img-wrapper {
   margin: 0 auto;
   margin-top: 64px;
+  max-width: 1184px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 2280px) {

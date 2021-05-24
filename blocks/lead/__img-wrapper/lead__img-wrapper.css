@@ -4,13 +4,13 @@
   max-width: 1184px;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 2280px) {
+@media screen and (min-width: 1280px) {
   .lead__img-wrapper {
     max-width: 80%;
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
   .lead__img-wrapper {
     max-width: 90%;
   }
@@ -19,5 +19,6 @@
 @media screen and (max-width: 420px) {
   .lead__img-wrapper {
     margin-top: 40px;
+    max-width: 100%;
   }
 }

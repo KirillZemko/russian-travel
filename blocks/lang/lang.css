@@ -1,6 +1,7 @@
 .lang {
-    font-size: 18px;
-    line-height: 20px;
-    align-self: flex-end;
-    margin-bottom: 5px;
+  font-family: 'Inter';
+  font-size: 18px;
+  line-height: 20px;
+  align-self: flex-end;
+  margin-bottom: 5px;
 }

@@ -5,10 +5,11 @@
   background-size: cover;
 	justify-content: center;
 	align-items: center;
+  margin: auto;
   margin-top: 92px;
 	margin-bottom: 92px;
   width: 100vw;
-  height: 62.5vw;
+  min-height: 62.5vw;
 	background-position: center;
   background-repeat: no-repeat;
 	text-align: center;
@@ -17,7 +18,7 @@
 @media screen and (min-width: 1280px) {
   .cover {
     max-width: 1184px;
-    max-height: 740px;
+    min-height: 740px;
   }
 }
 

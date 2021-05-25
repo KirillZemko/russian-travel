@@ -7,8 +7,8 @@
 	align-items: center;
   margin-top: 92px;
 	margin-bottom: 92px;
-  min-width: 100vw;
-  min-height: 62.5vw;
+  width: 100vw;
+  height: 62.5vw;
 	background-position: center;
   background-repeat: no-repeat;
 	text-align: center;

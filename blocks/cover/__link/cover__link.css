@@ -1,6 +1,7 @@
 .cover__link {
   font-family: "Inter", "Arial", sans-serif;
   background-color: rgba(42,44,47,.3);
+  width: 100vw;
   min-height: 62.5vw;
 	display: flex;
 	align-items: center;
